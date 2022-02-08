@@ -15,7 +15,7 @@ export const REGISTERS: {
   INTCONA: 0x08;
   INTCONB: 0x09;
   IOCON: 0x0a;
-  IOCON: 0x0b;
+  //IOCON: 0x0b;
   GPPUA: 0x0c;
   GPPUB: 0x0d;
   INTFA: 0x0e;
