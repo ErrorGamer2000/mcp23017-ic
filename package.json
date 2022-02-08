@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/package.json",
+  "name": "mcp23017",
+  "version": "1.0.0",
+  "description": "A Node.js library for using MCP23017 microchips over sda and scl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i2c",
+    "io",
+    "raspberry",
+    "raspi",
+    "rpi",
+    "pi",
+    "beaglebone",
+    "smbus",
+    "linux",
+    "mcp23017",
+    "mcp",
+    "23017",
+    "mcp23x17",
+    "23x17",
+    "gpio",
+    "expander"
+  ],
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErrorGamer2000/node-mcp23017.git"
+  },
+  "author": "ErrorGamer2000",
+  "license": "MIT",
+  "dependencies": {
+    "i2c-bus": "^5.2.2",
+    "just-clone": "^5.0.1",
+    "just-range": "^4.0.1",
+    "onoff": "^6.0.3"
+  }
+}
