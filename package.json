@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/package.json",
-  "name": "mcp23017",
+  "name": "mcp23017-ic",
   "version": "1.0.0",
   "description": "A Node.js library for using MCP23017 microchips over sda and scl",
   "main": "index.js",
